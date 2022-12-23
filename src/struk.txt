@@ -1,0 +1,12 @@
+=================================
+		STRUK PENDAFTARAN 
+=================================
+Tanggal Masuk : 12/12/2022
+Nama          : Tata
+ID            : 315
+Nama Kursus   : Python
+Jenis Kelas   : Offline
+Durasi        : 4
+Total Biaya   : 250000
+=================================
+
